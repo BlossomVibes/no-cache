@@ -1,8 +1,7 @@
-# Deprecated!
-This project is deprecated! Use our other proxy [Corrosion](https://github.com/titaniumnetwork-dev/corrosion) instead!
-
 # Alloy Proxy
-A web proxy for use in combating web filters.
+A web proxy.
+
+#The following is forked from a certificate
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/alloy/tree/master)
 
